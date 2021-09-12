@@ -1,3 +1,5 @@
 練習用のファイルです。
 git add
 git commit
+git rm
+
